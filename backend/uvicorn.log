@@ -1,0 +1,9 @@
+INFO:     Will watch for changes in these directories: ['/Users/pulkit.jain8004/Documents/FinTech POC/backend']
+INFO:     Uvicorn running on http://0.0.0.0:8001 (Press CTRL+C to quit)
+INFO:     Started reloader process [82056] using WatchFiles
+INFO:     Started server process [82058]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:59888 - "GET /query?q=tell%20me%20how%20can%20i%20open%20an%20account HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60127 - "GET /query?q=hello HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60180 - "GET /query?q=According%20to%20the%20Account%20Opening%20SOP%2C%20list%20all%20required%20documents%20for%20opening%20an%20individual%20retail%20savings%20account. HTTP/1.1" 200 OK

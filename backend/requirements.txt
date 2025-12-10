@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+chromadb
+ollama
+pydantic
+pydantic-settings
+python-dotenv
+numpy
+tenacity
+langchain-community
+langchain-text-splitters
+docx2txt
+pypdf
+
